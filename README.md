@@ -32,7 +32,7 @@ Always exploring new ideas and developing cool projects with code!
 
 #### Languages
 <div align="center">
- <img src="https://wakatime.com/share/@Eleven/c8f3935c-4ddb-4a29-9527-d1458c189f71.svg" alt="WakaTime Statistics" width="600">
+ <img src="https://wakatime.com/share/@Eleven/08b41d06-4de7-43f6-937b-dc8be693a7ba.png" alt="WakaTime Statistics" width="600">
 </div>
 
 #### Coding Activity
